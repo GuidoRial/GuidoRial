@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GuidoRial
+- 👀 I’m interested in Web Development, but as much as I've been loving it, I'd like to mix my knowledge on this area with music. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and NodeJS
+- 📫 You can reach up to me at rialguido@gmail.com
