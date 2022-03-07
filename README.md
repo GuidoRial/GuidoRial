@@ -1,6 +1,6 @@
 ## :wave: Hi, I’m @GuidoRial. 
 
-## :star: I'm a front-end web develeoper
+## :star: I'm a front-end web developer
 
 - 👀 I’m interested in music, fitness, games and learning new things
 - 🌱 I’m currently learning Data Structures, MongoDB, Express and NodeJS
