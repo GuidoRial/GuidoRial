@@ -23,8 +23,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### Badges
-
 ## :chart_with_upwards_trend: GitHub Stats
 <p>
 <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=GuidoRial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
