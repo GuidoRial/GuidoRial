@@ -26,4 +26,7 @@
 ### Badges
 
 ## :chart_with_upwards_trend: GitHub Stats
-<img alt="most used languages" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoRial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"><img height="240px" src="https://github-readme-stats.vercel.app/api?username=GuidoRial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<div style="display: flex; gap: 5px;">
+<img alt="most used languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoRial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"><img height="250px" src="https://github-readme-stats.vercel.app/api?username=GuidoRial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+</div>
+
