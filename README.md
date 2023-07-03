@@ -1,9 +1,9 @@
 ## :wave: Hi, I’m @GuidoRial. 
 
-## :star: I'm a web developer
+## :star: I'm a software developer
 
 - 👀 I’m interested in music, fitness, games and learning new things
-- 🌱 I’m currently learning VueJS, MongoDB, Express and NodeJS
+- 🌱 I’m currently learning Design Patterns, Data Structures and Algorithms
 - 📫 You can reach up to me at rialguido@gmail.com or on [Linkedin](https://www.linkedin.com/in/guido-rial-275552221/)
 - 😎 You should definitely check out my portfolio [here](https://portfolio-guidorial.vercel.app/) 
 
