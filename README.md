@@ -3,7 +3,7 @@
 ## :star: I'm a software developer
 
 - 👀 I’m interested in music, fitness, games and learning new things
-- 🌱 I’m currently learning Design Patterns, System Design and Web 3.0
+- 🌱 I’m currently learning Design Patterns and System Design
 - 📫 You can reach up to me at rialguido@gmail.com or on [Linkedin](https://www.linkedin.com/in/guido-rial-275552221/)
 - 😎 You should definitely check out my portfolio [here](https://portfolio-guidorial.vercel.app/) 
 
